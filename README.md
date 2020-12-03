@@ -1,1 +1,1 @@
-# jgossage.github.io
+# GH-Pages feployment repository for jgossage
