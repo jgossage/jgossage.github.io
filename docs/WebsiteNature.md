@@ -1,6 +1,4 @@
 # Nature of my Website
-
-
 ## Purpose
 ## Nature
 ### GitHub
@@ -14,7 +12,7 @@ from my local computer. This means that I use [Git](https://git-scm.com/) to mai
 #### Jekyll
 ### Local Computer
 I run [Windows 10 Home Edition](https://www.microsoft.com/windows) as the operating system on my local computer and use
-[Microsoft Visual Studio Code](https://code.visualstudio.com/) as my text edito for generating website content locally and for general maintenance of my computer system.
+[Microsoft Visual Studio Code](https://code.visualstudio.com/) as my text editor for generating website content locally and for general maintenance of my computer system.
 #### Network Connectivity
 #### Content Generation
 #### Content Maintenance
