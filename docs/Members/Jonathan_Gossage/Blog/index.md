@@ -4,7 +4,7 @@ This blog post will try to suggest a way of developing and maintaining a website
 This is not a recipe, rather it is a guide. It could only be considered a recipe by those who have a computing environment that is close to identical to that which I have. Anyone else will need to adapt some or many of the details described in this blog post to their environment.
 
 The post has five parts and I suggest that you skip any part that is not relevant to you.
-# [General Principles](./WebPrinciples)
+# [General Principles](./WebsitePrinciples)
 # [My Website](./WebsiteNature)
 # [Building My Website](./WebsiteConstruction)
 # [Running My Website](./RunningWebsite)

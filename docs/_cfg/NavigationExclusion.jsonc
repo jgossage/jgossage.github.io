@@ -1,0 +1,6 @@
+{
+    "WEB_EXCLUSION_PATTERNS": [
+        ".*",
+        "_*"
+    ]
+}

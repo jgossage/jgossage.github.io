@@ -1,1 +1,2 @@
 # GH-Pages deployment repository for jgossage
+This repository is used primarily for testing the construction and use of a new website hosted on `GitHub Pages`. Once testing is complete it will be migrated to the website of the [*Global Village*](https://github.com/globalvillagesoftware) organization.
